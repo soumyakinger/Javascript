@@ -1,2 +1,2 @@
 # Javascript
-Javascript Homework
+Javascript Homework submission - includes an index.html and app.js files.
